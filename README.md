@@ -6,7 +6,7 @@
 - **Course:** CS 3410: Introduction to Database Systems, Spring 2026
 - **Instructor:** Dr. North
 
-The full submitted document (with all original formatting) is located at [`Project_Submission.docx`](./Project_Submission.docx).
+The full submitted document (with all original formatting) is located at [`Project_Submission.docx`](./Project_Submission.docx). The Microsoft Access database itself is included as [`CS3410Assignment5GroupProj1.accdb`](./CS3410Assignment5GroupProj1.accdb).
 
 ------
 
@@ -125,10 +125,10 @@ See also [`CRUD MATRIX.docx`](./CRUD%20MATRIX.docx) for the original document.
 
 ## Table Descriptions
 
-- **Customer** — Stores customer profiles, including FirstName, LastName, Email, PhoneNum, and Address.
-- **Transaction** — Records sales data, including TransactionID, CustomerID, PaymentMethod, TransactionDate, and TotalAmount.
-- **Game** — Tracks game inventory, including Title, Platform, Price, UnitsInStock, and Publisher.
-- **ReceiptDetail** — Links games to transactions, recording Quantity and PriceAtSale.
+- **Customer:** Stores customer profiles, including FirstName, LastName, Email, PhoneNum, and Address.
+- **Transaction:** Records sales data, including TransactionID, CustomerID, PaymentMethod, TransactionDate, and TotalAmount.
+- **Game:** Tracks game inventory, including Title, Platform, Price, UnitsInStock, and Publisher.
+- **ReceiptDetail:** Links games to transactions, recording Quantity and PriceAtSale.
 
 ------
 
