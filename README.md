@@ -1,11 +1,10 @@
 # CS 3410: Database Project
 
-**Client:** TheGenericGameStore
-**Team Members:** Jackson Hainey, Ryan Woods
-
-Kennesaw State University
-CS 3410: Introduction to Database Systems, Spring 2026
-Instructor: Dr. North
+- **Client:** TheGenericGameStore
+- **Team Members:** Jackson Hainey, Ryan Woods
+- **University:** Kennesaw State University
+- **Course:** CS 3410: Introduction to Database Systems, Spring 2026
+- **Instructor:** Dr. North
 
 The full submitted document (with all original formatting) is located at [`Project_Submission.docx`](./Project_Submission.docx).
 
